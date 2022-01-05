@@ -1,1 +1,1 @@
-<h1>basic cmds</h1>
+<h1>apps</h1>
